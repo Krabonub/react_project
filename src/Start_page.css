@@ -1,0 +1,23 @@
+.greeting{
+    width:570px;
+    background:#2E86C1  ;
+    color:#FFFFFF;
+    padding:20px 35px;
+    box-shadow: 7px 10px 34px 1px rgba(0, 0, 0, 0.68);
+}
+.greeting h1{
+    text-align:center;
+}
+.greeting p{
+    text-align:start;
+    font-size:20px;
+}
+.greeting h5 span{
+    color:#2C3E50;
+    font-weight:bold;
+}
+.c{
+    font-size:14px;
+    display:block;
+    text-align: end;
+}
